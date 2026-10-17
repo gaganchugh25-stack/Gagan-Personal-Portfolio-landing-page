@@ -1,0 +1,23 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.env*
+!.env.example
+.DS_Store
+.impeccable/review/
+.impeccable/assets/
+
+# Credentials and private documents
+*.pem
+*.key
+*.p12
+*.pfx
+*.doc
+*.docx
+*.pdf
+*[Rr]esume*
+*[Rr]ésumé*
+credentials*.json
+service-account*.json
+*.log
